@@ -1,0 +1,6 @@
+[submodule "SDK"]
+	path = SDK
+	url = https://github.com/anabolyc/nRF24LE1_SDK
+[submodule "Examples"]
+	path = Examples
+	url = https://github.com/anabolyc/nRF24LE1_Example

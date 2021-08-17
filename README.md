@@ -258,7 +258,7 @@ DONE
 
 Result is below
 
-![Leds blinking](https://github.com/anabolyc/nRF24LE1_Starter_Kit/blob/main/Images/image003.gif?raw=true)
+![Leds blinking](https://github.com/anabolyc/nRF24LE1_Starter_Kit/blob/main/Images/image002.gif?raw=true)
 
 ## Links
 

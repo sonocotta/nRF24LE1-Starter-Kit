@@ -272,7 +272,7 @@ DONE
 
 Result is below
 
-![Leds blinking](/Images/image002.gif)
+![Leds blinking](/Images/DSC_0019.MOV.gif)
 
 ## Links
 

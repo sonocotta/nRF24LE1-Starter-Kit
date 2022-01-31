@@ -118,11 +118,25 @@ In the first scenario connection would look like this
 
 ```
 
-In case you want to go second way, schematic can be foung in the repo, also hw project is [open sourced](https://oshwlab.com/andrey.mal/2104-nrf24l01-dev-board_copy_copy). 
+In case you want to go second way, schematic can be foung in the repo, also hw project is open sourced. 
 
 Hopefully board will be available to buy soon.
 
+## Development board
+
 ![Dev board](https://github.com/anabolyc/nRF24LE1_Starter_Kit/blob/main/Images/image001.jpg?raw=true)
+
+### Features
+
+- Breadboard friendly design with user-prototyping area
+  - all GPIO ports on the breadboard
+  - 2 power rails powered from built-in 3.3 voltage stabilizer
+- On-Board Atmega328P MCU serves a programmer role
+- On-Board CH340 USB-Serial bridge allows direct programming via built-in USB port
+- ESD and over-current protection
+- Weak LED indicators for every port
+- Community delivered SDK, Programmer code and code samples in the project repo tested and ready to run
+- Open source and open hardware
 
 When you have a tool, flash above firmware using `Upload` task in vscode.
 

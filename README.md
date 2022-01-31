@@ -124,7 +124,7 @@ Hopefully board will be available to buy soon.
 
 ## Development board
 
-![Dev board](https://github.com/anabolyc/nRF24LE1_Starter_Kit/blob/main/Images/image001.jpg?raw=true)
+![Dev board](/Images/DSC_0019.MOV.gif)
 
 ### Features
 

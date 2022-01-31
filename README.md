@@ -1,5 +1,8 @@
 # nRF24LE1 Starter Kit
 
+![Open Source Hardware](/Images/open-source-hardware-logo.png)
+![Open Source Software](/Images/open-source-software-logo.png)
+
 Resources you need to start developing for nRF24LE1
 
 ## What is nRF24LE1

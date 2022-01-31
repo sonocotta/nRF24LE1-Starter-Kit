@@ -6,7 +6,7 @@ Resources you need to start developing for nRF24LE1
 
 nRF24LE1 is a nRF24L01 radio module and 8051-core microcontroller in single chip. You can think of it as Arduino with nRF24L01 in a bundle. 
 
-![General architecture](https://github.com/anabolyc/nRF24LE1_Starter_Kit/blob/main/Images/image000.png?raw=true)
+![General architecture](/Images/image000.png)
 
 It has all capabilities of nRF24L01 radio chip and quite powerfull MCU that can run your code.
 
@@ -14,7 +14,7 @@ It has all capabilities of nRF24L01 radio chip and quite powerfull MCU that can 
 
 Just for fun. Also it is dead cheap. $2-3 for ready to use module. But it is outdated, not recomended for new design, and probably you should use nRF52X or nRF53X series chips instead.
 
-![NRF24LE1 module](https://github.com/anabolyc/nRF24LE1_Starter_Kit/blob/main/Images/image004.png?raw=true)
+![NRF24LE1 module](/Images/image004.png)
 
 But if you're still convinced, below steps will allow you to get started.
 
@@ -272,7 +272,7 @@ DONE
 
 Result is below
 
-![Leds blinking](https://github.com/anabolyc/nRF24LE1_Starter_Kit/blob/main/Images/image002.gif?raw=true)
+![Leds blinking](/Images/image002.gif)
 
 ## Links
 
